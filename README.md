@@ -1,1 +1,1 @@
-Gomax
+A **package manager** created for **multi-languages** including for now **Java and Node.JS**
